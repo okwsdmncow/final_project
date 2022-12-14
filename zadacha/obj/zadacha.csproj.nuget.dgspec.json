@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladimirastapov/project/zadacha/zadacha.csproj": {}
+    "/Users/vladimirastapov/project/final_project/zadacha/zadacha.csproj": {}
   },
   "projects": {
-    "/Users/vladimirastapov/project/zadacha/zadacha.csproj": {
+    "/Users/vladimirastapov/project/final_project/zadacha/zadacha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladimirastapov/project/zadacha/zadacha.csproj",
+        "projectUniqueName": "/Users/vladimirastapov/project/final_project/zadacha/zadacha.csproj",
         "projectName": "zadacha",
-        "projectPath": "/Users/vladimirastapov/project/zadacha/zadacha.csproj",
+        "projectPath": "/Users/vladimirastapov/project/final_project/zadacha/zadacha.csproj",
         "packagesPath": "/Users/vladimirastapov/.nuget/packages/",
-        "outputPath": "/Users/vladimirastapov/project/zadacha/obj/",
+        "outputPath": "/Users/vladimirastapov/project/final_project/zadacha/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vladimirastapov/.nuget/NuGet/NuGet.Config"
